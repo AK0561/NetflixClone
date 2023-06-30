@@ -24,13 +24,13 @@ To view the Netflix clone website UI design locally on your machine, follow thes
 1. Clone the repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/AK0561/NetflixClone.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd netflix-clone
+   cd NetflixClone
    ```
 
 3. Open the `index.html` file in your preferred web browser.
