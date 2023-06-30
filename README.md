@@ -33,7 +33,7 @@ To view the Netflix clone website UI design locally on your machine, follow thes
    cd NetflixClone
    ```
 
-3. Open the `index.html` file in your preferred web browser.
+3. Open the `project.html` file in your preferred web browser.
 
 4. Explore the website and interact with its features.
 
